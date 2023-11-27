@@ -1,0 +1,32 @@
+h2 {
+    color:rgb(47, 255,  82); 
+    text-align: center; 
+    text-decoration: black overline wavy;
+    font-family: fantasy;
+}
+
+#Hello {
+    color: brown;
+}
+
+p {
+    color:olive; background-color: navy;
+    text-align: right;
+}
+
+input {
+    color:brown;
+}
+
+button:active {
+    background-color: blueviolet;
+}
+
+h2::first-letter {
+    color:darkgoldenrod; 
+    background-color: darkgreen;
+}
+
+p::selection {
+    background-color: cyan;
+}
